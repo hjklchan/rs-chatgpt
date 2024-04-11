@@ -7,7 +7,8 @@
 <br />
 
 ## 介绍
-Rust-ChatGPT 是一个价值一个亿的 AI 项目并且由 Rust 语言构建, 其内部代码非常**简单易读**, 一共 **7 行代码**左右
+Rust-ChatGPT 是一个价值一个亿的 AI 项目并且由 Rust 语言构建, 其内部代码非常**简单易读**, 一共 **7 行代码**左右  
+> 核心代码位于 `/src/main.rs`
 
 ## 效果图
 ![](https://github.com/hjklchan/rs-chatgpt/blob/main/imgs/chatgpt_with_rs.png)
